@@ -1,0 +1,1 @@
+java -classpath out\ view.common.LoginUI

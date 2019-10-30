@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><accounts>
+    <account accountID="0">
+        <electricMeterID>0001</electricMeterID>
+        <gasMeterID>0001</gasMeterID>
+        <userName>susan</userName>
+        <electricMeterReadingHis>2356</electricMeterReadingHis>
+        <gasMeterReadingHis>1345</gasMeterReadingHis>
+        <electricMeterReading>2378</electricMeterReading>
+        <gasMeterReading>1357</gasMeterReading>
+        <electricBudgets>200</electricBudgets>
+        <gasBudgets>200</gasBudgets>
+        <password>1A2S3D4F</password>
+        <state>0</state>
+        <balance>24.5</balance>
+    </account>
+
+    <account accountID="1">
+        <electricMeterID>2617</electricMeterID>
+        <gasMeterID>1672</gasMeterID>
+        <userName>susan</userName>
+        <electricMeterReadingHis>2356</electricMeterReadingHis>
+        <gasMeterReadingHis>1345</gasMeterReadingHis>
+        <electricMeterReading>2617</electricMeterReading>
+        <gasMeterReading>1672</gasMeterReading>
+        <electricBudgets>20000</electricBudgets>
+        <gasBudgets>20000</gasBudgets>
+        <password>1A2S</password>
+        <state>0</state>
+        <balance>5666344.0</balance>
+    </account>
+    <account accountID="2">
+        <electricMeterID>1223</electricMeterID>
+        <gasMeterID>2347</gasMeterID>
+        <userName>Virgil</userName>
+        <electricMeterReadingHis>0</electricMeterReadingHis>
+        <gasMeterReadingHis>0</gasMeterReadingHis>
+        <electricMeterReading>1223</electricMeterReading>
+        <gasMeterReading>2347</gasMeterReading>
+        <electricBudgets>2222</electricBudgets>
+        <gasBudgets>3333</gasBudgets>
+        <password>1Q2W</password>
+        <state>0</state>
+        <balance>29.339996</balance>
+    </account>
+    <account accountID="3">
+        <electricMeterID>233</electricMeterID>
+        <gasMeterID>233</gasMeterID>
+        <userName>233</userName>
+        <electricMeterReadingHis>0</electricMeterReadingHis>
+        <gasMeterReadingHis>0</gasMeterReadingHis>
+        <electricMeterReading>0</electricMeterReading>
+        <gasMeterReading>0</gasMeterReading>
+        <electricBudgets>0</electricBudgets>
+        <gasBudgets>0</gasBudgets>
+        <password>233</password>
+        <state>-1</state>
+        <balance>233.0</balance>
+    </account>
+    <account accountID="4">
+        <electricMeterID>12</electricMeterID>
+        <gasMeterID>12</gasMeterID>
+        <userName>12</userName>
+        <electricMeterReadingHis>0</electricMeterReadingHis>
+        <gasMeterReadingHis>0</gasMeterReadingHis>
+        <electricMeterReading>0</electricMeterReading>
+        <gasMeterReading>0</gasMeterReading>
+        <electricBudgets>0</electricBudgets>
+        <gasBudgets>0</gasBudgets>
+        <password>12</password>
+        <state>-1</state>
+        <balance>12.0</balance>
+    </account>
+    <account accountID="5">
+        <electricMeterID>13</electricMeterID>
+        <gasMeterID>13</gasMeterID>
+        <userName>13</userName>
+        <electricMeterReadingHis>0</electricMeterReadingHis>
+        <gasMeterReadingHis>0</gasMeterReadingHis>
+        <electricMeterReading>0</electricMeterReading>
+        <gasMeterReading>0</gasMeterReading>
+        <electricBudgets>0</electricBudgets>
+        <gasBudgets>0</gasBudgets>
+        <password>131</password>
+        <state>-1</state>
+        <balance>13.0</balance>
+    </account>
+    <account accountID="6">
+        <electricMeterID>10012</electricMeterID>
+        <gasMeterID>234435</gasMeterID>
+        <userName>239U3</userName>
+        <electricMeterReadingHis>0</electricMeterReadingHis>
+        <gasMeterReadingHis>0</gasMeterReadingHis>
+        <electricMeterReading>0</electricMeterReading>
+        <gasMeterReading>0</gasMeterReading>
+        <electricBudgets>0</electricBudgets>
+        <gasBudgets>0</gasBudgets>
+        <password>23124</password>
+        <state>-1</state>
+        <balance>213123.0</balance>
+    </account>
+<account accountID="7"><electricMeterID>11</electricMeterID><gasMeterID>11</gasMeterID><userName>12</userName><electricMeterReadingHis>0</electricMeterReadingHis><gasMeterReadingHis>0</gasMeterReadingHis><electricMeterReading>0</electricMeterReading><gasMeterReading>0</gasMeterReading><electricBudgets>0</electricBudgets><gasBudgets>0</gasBudgets><password>23</password><state>-1</state><balance>23.0</balance></account><account accountID="8"><electricMeterID>12</electricMeterID><gasMeterID>12</gasMeterID><userName>12</userName><electricMeterReadingHis>0</electricMeterReadingHis><gasMeterReadingHis>0</gasMeterReadingHis><electricMeterReading>0</electricMeterReading><gasMeterReading>0</gasMeterReading><electricBudgets>0</electricBudgets><gasBudgets>0</gasBudgets><password>12</password><state>-1</state><balance>12.0</balance></account><account accountID="9"><electricMeterID>12</electricMeterID><gasMeterID>12</gasMeterID><userName>12</userName><electricMeterReadingHis>0</electricMeterReadingHis><gasMeterReadingHis>0</gasMeterReadingHis><electricMeterReading>0</electricMeterReading><gasMeterReading>0</gasMeterReading><electricBudgets>0</electricBudgets><gasBudgets>0</gasBudgets><password>12</password><state>-1</state><balance>12.0</balance></account><account accountID="10"><electricMeterID>66</electricMeterID><gasMeterID>66</gasMeterID><userName>66</userName><electricMeterReadingHis>0</electricMeterReadingHis><gasMeterReadingHis>0</gasMeterReadingHis><electricMeterReading>0</electricMeterReading><gasMeterReading>0</gasMeterReading><electricBudgets>0</electricBudgets><gasBudgets>0</gasBudgets><password>66</password><state>0</state><balance>66.0</balance></account></accounts>

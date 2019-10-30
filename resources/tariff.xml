@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tariffs>
+    <tariff id="0">
+        <price>121</price>
+        <future>121</future>
+    </tariff>
+    <tariff id="1">
+        <price>121</price>
+        <future>121</future>
+    </tariff>
+</tariffs>
